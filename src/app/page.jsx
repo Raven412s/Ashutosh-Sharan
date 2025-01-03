@@ -9,9 +9,10 @@ import dynamic from 'next/dynamic'
 import Text from '@/components/PaintReveal/TextPaint'
 import Scene from '@/components/PaintReveal/ScenePaint'
 import Image from 'next/image'
-const Hero = dynamic(() => import('@/components/Hero'), {
+const Hero = dynamic(() => import('@/components/Hero/Index'), {
     ssr: false,
-})
+});
+
 
 const Home = () => {
     useEffect( () => {
