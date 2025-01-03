@@ -13,6 +13,7 @@
     "@react-three/fiber": "^8.15.12",
     "clsx": "^2.1.1",
     "framer-motion": "^11.15.0",
+    "gsap": "^3.12.5",
     "lenis": "^1.1.18",
     "leva": "^0.9.35",
     "locomotive-scroll": "^4.1.4",
