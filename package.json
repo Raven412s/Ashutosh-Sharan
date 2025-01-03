@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.92.7",
+    "@react-three/fiber": "^8.15.12",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.15.0",
+    "lenis": "^1.1.18",
+    "leva": "^0.9.35",
+    "locomotive-scroll": "^4.1.4",
+    "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "sass": "^1.83.0",
+    "tailwind-merge": "^2.6.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
